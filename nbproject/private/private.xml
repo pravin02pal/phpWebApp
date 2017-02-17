@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/opt/lampp/htdocs/phpWebApp/application/config/routes.php</file>
+            <file>file:/opt/lampp/htdocs/phpWebApp/application/views/home/home_page.php</file>
+            <file>file:/opt/lampp/htdocs/phpWebApp/application/views/user/user_form.php</file>
+            <file>file:/opt/lampp/htdocs/phpWebApp/application/models/User_model.php</file>
+            <file>file:/opt/lampp/htdocs/phpWebApp/application/views/layout/header.php</file>
+            <file>file:/opt/lampp/htdocs/phpWebApp/application/controllers/Home.php</file>
+            <file>file:/opt/lampp/htdocs/phpWebApp/application/controllers/User.php</file>
+        </group>
+    </open-files>
+</project-private>
